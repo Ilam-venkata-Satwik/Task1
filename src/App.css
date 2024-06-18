@@ -1,0 +1,16 @@
+/* src/App.css */
+body, html, #root, .App {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  padding-top: 80px; /* Make sure content doesn't overlap with fixed navbar */
+}
+
+section {
+  height: 100vh;
+  padding: 20px;
+}
